@@ -1,9 +1,12 @@
 {
-  "name": "@my-payload/simple",
+  "name": "@my-payload/complex",
   "version": "0.0.1",
   "license": "MIT",
   "private": true,
   "scripts": {
     "test": "node index.js"
+  },
+  "dependencies": {
+    "@my-payload/simple": "*"
   }
 }
