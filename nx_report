@@ -1,0 +1,33 @@
+
+>  NX  Report complete - copy this into the issue template
+
+  Node : 16.13.1
+  OS   : linux x65
+  yarn : 3.1.1
+
+  nx : 13.3.9
+  @nrwl/angular : undefined
+  @nrwl/cli : 13.3.9
+  @nrwl/cypress : undefined
+  @nrwl/devkit : 13.3.9
+  @nrwl/eslint-plugin-nx : undefined
+  @nrwl/express : undefined
+  @nrwl/jest : 13.3.9
+  @nrwl/linter : 13.3.9
+  @nrwl/nest : undefined
+  @nrwl/next : undefined
+  @nrwl/node : undefined
+  @nrwl/nx-cloud : undefined
+  @nrwl/react : undefined
+  @nrwl/react-native : undefined
+  @nrwl/schematics : undefined
+  @nrwl/tao : 13.3.9
+  @nrwl/web : undefined
+  @nrwl/workspace : 13.3.9
+  @nrwl/storybook : undefined
+  @nrwl/gatsby : undefined
+  typescript : 4.4.4
+  rxjs : 6.6.7
+  ---------------------------------------
+  Community plugins:
+

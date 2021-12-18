@@ -1,0 +1,6 @@
+{
+  "name": "@my-payload/simple",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
