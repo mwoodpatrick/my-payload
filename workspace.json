@@ -2,6 +2,8 @@
   "version": 2,
   "projects": {
     "complex": "packages/complex",
+    "my-express-app": "packages/my-express-app",
+    "my-node-app": "packages/my-node-app",
     "simple": "packages/simple"
   }
 }
