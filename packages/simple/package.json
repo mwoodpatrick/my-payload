@@ -4,6 +4,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
+    "copyfiles": "copyfiles -u 1 src/**/*.{html,css,scss,ttf,woff,woff2,eot,svg,jpg,png} dist/",
     "test": "node index.js"
   }
 }
